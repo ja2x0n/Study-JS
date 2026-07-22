@@ -11,3 +11,5 @@ for (let i = 0; i <= numbers.length; i++) {
         console.log(numbers[i]);
     }
 }
+
+// 사용자 배열에서 활성 상태인 사용자 이름만 출력한다.
